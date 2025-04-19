@@ -23,3 +23,5 @@ This project addresses a multi-label classification task where both images and t
 
 ## 💡 Skills Demonstrated
 `Multimodal Learning`, `CNN`, `BERT`, `Keras`, `NLP`, `Image Classification`, `Attention`, `TensorFlow`
+## 💡 Link
+https://drive.google.com/drive/folders/1_WGgr9qtKvwNTEukMUt5J-_BEqqs-zDu
